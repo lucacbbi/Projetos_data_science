@@ -5,7 +5,7 @@
 </p>
 
 # Luca Peres
-<sub>*Lead Data Scientist*</sub>
+<sub>*Data Scientist*</sub>
 
 
 As a Data Scientist in constant growth I combine analytical skills, ability to work in team environments, and attention to details. Having spent the last years applying Machine Learning to Federal District Environmental Sanitation Company real problems, I developed critical thinking and problem-solving skills.
